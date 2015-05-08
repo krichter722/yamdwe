@@ -1,5 +1,7 @@
 # Yet Another Mediawiki to DokuWiki Exporter
 
+[![Join the chat at https://gitter.im/krichter722/yamdwe](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/krichter722/yamdwe?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Yamdwe is made up of two Python programs to export an existing
 Mediawiki install to a Dokuwiki install.
 
